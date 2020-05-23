@@ -5,7 +5,7 @@
 ##  Gradle start up script for UN*X
 ##
 ##############################################################################
-
+export JAVA_HOME='/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/'
 # Attempt to set APP_HOME
 # Resolve links: $0 may be a link
 PRG="$0"
