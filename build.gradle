@@ -1,5 +1,5 @@
 compileJava.options.fork = true
-compileJava.options.forkOptions.executable = //usr/local/opt/openjdk/bin/javac
+compileJava.options.forkOptions.executable = /usr/local/opt/openjdk/bin/javac
 plugins {
   //inlude the nodeJS plugin to execute nodejs and npm tasks
   id "com.moowork.node" version "1.2.0"
